@@ -9,7 +9,7 @@ import java.util.*;
 
 /**
  *
- * @author PAVITHRA T
+ * @author Priyadharshini
  */
 public class creditcard {
 
